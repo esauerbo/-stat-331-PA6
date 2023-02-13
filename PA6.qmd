@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Jamie, Emma, Mansi, McKenna"
 format: html
 editor: visual
 self-contained: true
