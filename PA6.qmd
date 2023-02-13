@@ -1,9 +1,9 @@
 ---
 title: "Practice Activity 6"
+author: "McKenna Reed, Emma Sauerborn, Jamie Luna, Mansi Achuthan"
 format: html
 editor: visual
 self-contained: true
-author: McKenna Reed, Emma Sauerborn, Jamie Luna, Mansi Achuthan
 ---
 
 ## Quarto
